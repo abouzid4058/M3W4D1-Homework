@@ -1,0 +1,32 @@
+/* mixin */
+body {
+  font-family: 'Arial', sans-serif;
+  color: #222;
+}
+header {
+  background: #c0392b;
+  color: #ffffff;
+  padding: 15px;
+}
+.product {
+  background: #f2f2f2;
+  padding: 20px;
+}
+.product h2 {
+  font-family: 'Helvetica', sans-serif;
+}
+.product .price {
+  color: #c0392b;
+  font-weight: bold;
+}
+.product button {
+  background-color: #c0392b;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+}
